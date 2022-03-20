@@ -1,0 +1,3 @@
+Ovo je file karaktera za primjer kopiranja
+preko copyChar klase u Javi.
+Kopirat će se u drugi fajl po imenu destinacija karaktera.

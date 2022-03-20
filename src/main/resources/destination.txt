@@ -1,0 +1,2 @@
+Ovdje se nalazi neki text.
+Ovaj text je potrebno preko Jave prebaciti u destination fajl.
